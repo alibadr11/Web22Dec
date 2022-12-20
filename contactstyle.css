@@ -1,0 +1,77 @@
+.button1 {
+    background-color: rgb(235, 193, 10);
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    display: inline-block;
+    margin: 4px 2px;
+    padding: 15px 32px;
+    position: relative;
+    top: 200px;
+    left: 500px;
+}
+
+.button1:hover {
+    background-color: yellow;
+}
+.ai1support {
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.ai1support a {
+    text-decoration: none;
+}
+
+.learnmore  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.learnmore li {
+    display: inline;
+    padding: 20px;
+    list-style-type: none;
+    font-size: 20px;
+
+}
+
+.learnmore li a {
+    text-decoration: none;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.support-cols::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.button2 {
+    background-color: rgb(235, 193, 10);
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    display: inline-block;
+    margin: 4px 2px;
+    padding: 15px 80px;
+   
+}
+
+.button2:hover {
+    background-color: yellow;
+}
+.support-cols a {
+    text-decoration: none;
+}

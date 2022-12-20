@@ -1,0 +1,4 @@
+How to invent efficient solutions to unsolved problems using algorithms and data structures 
+ 
+Algorithm - A program that solves a problem 
+The resources to solve a problem = data structures or a common pattern within the problem 
